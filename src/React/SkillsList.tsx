@@ -116,7 +116,7 @@ const SkillsList = () => {
       <div className="w-full max-w-xs">  
         <iframe  
           style={{ borderRadius: '15px', border: '0' }}  
-          src="https://open.spotify.com/playlist/1XCOJkYsL3sdRwatlP3v3N?si=dLYgOVDNTKKqpx8Q2DiQaw"  
+          src="https://open.spotify.com/embed/playlist/1XCOJkYsL3sdRwatlP3v3N"  
           className="w-full h-40"  
           allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"  
           loading="lazy"  
